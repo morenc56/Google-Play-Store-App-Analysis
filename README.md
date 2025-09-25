@@ -40,4 +40,6 @@ Bu projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
     `jupyter notebook`
 3.  Tarayıcında açılan ekrandan `google-play-store-apps-analysis.ipynb` dosyasını açıp çalıştırabilirsiniz.
 
+### Kaggle Proje Linki: https://www.kaggle.com/code/mehmetren/google-play-store-apps-1
+
 
