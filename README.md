@@ -22,10 +22,10 @@ Bu çalışma için kullanılan veri seti Kaggle üzerinden sağlanmıştır ve 
 
 Projede izlenen temel analiz adımları şunlardır:
 
-1.  **Veri Yükleme ve Genel Bakış**: `googleplaystore.csv` dosyası Pandas DataFrame'ine yüklenmiş ve ilk 5 satırı, kolon adları, veri tipleri ve boş değerleri incelenmiştir.
+1.  **Veri Yükleme ve Genel Bakış**: `googleplaystore.csv` dosyası Pandas DataFrame'ine yüklenmiş ve kolon adları, veri tipleri ve boş değerleri incelenmiştir.
 2.  **Veri Temizleme**:
     * `Reviews` kolonunda yer alan sayısal olmayan değerler tespit edilip temizlenmiştir.
-    * Kolondaki veri tipi, analiz yapılabilmesi için `object`'ten `int`'e dönüştürülmüştür.
+    * Veri Setinde analiz yapılabilmesi için veri tiplerinde gerekli tür dönüşümleri yapılmıştır.
 3.  **Keşifçi Veri Analizi**:
     * Kategorilere ve türlere göre uygulama dağılımı incelenmiştir.
     * Farklı türlerdeki uygulamaların ortalama kurulum sayıları görselleştirilmiştir.
