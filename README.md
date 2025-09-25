@@ -1,5 +1,3 @@
-# Google-Play-Store-App-Analysis
-Google Play Store App Dataset Using Python
 ### Google Play Store Uygulamaları Veri Analizi
 
 Bu proje, Kaggle'dan elde edilen Google Play Store uygulama verileri üzerinde yapılan veri temizleme ve keşifçi veri analizi (EDA) çalışmasını içerir. Amacı, uygulama pazarındaki eğilimleri ve kullanıcı davranışlarını anlamaktır.
